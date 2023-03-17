@@ -62,7 +62,7 @@
         }
     })
     </script>
-
         </div>
+        <a href="index.php" class="btn btn-outline-dark" role="buttom" style="margin-bottom: 35px; margin-top: 20px; margin-left: 550px;">Volver</a>
 </body>
 </html>
